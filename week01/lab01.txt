@@ -20,3 +20,4 @@ drwxr-xr-x  2 david.michael StafCS 4096 Sep  9 08:57 week09
 drwxr-xr-x  2 david.michael StafCS 4096 Sep  9 08:57 week10
 drwxr-xr-x  2 david.michael StafCS 4096 Sep  9 08:57 xtra
 /home/fasilkom/mahasiswa/d/david.michael/os172/week01
+Today is 09 Sep 2017 at 09:36:49
