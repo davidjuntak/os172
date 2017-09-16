@@ -1,0 +1,2 @@
+w02-170914-19-LR-About : Protection, Security, and C-Language
+w02-170916-08-LR-About : C, Sign, and Encryption
