@@ -1,0 +1,12 @@
+Booting is a bootstrapping proccess that starts operating systems when the use turns on a computer system.
+
+A boot sequence is the set of operations the computer perfoms when it is switched on that load an operating system.
+
+How Linux boot?
+1. System startup | BIOS / BootMonitor
+2. Stage 1 bootloader | Master Boot Record
+3. Stage 2 bootloader | LILO, GRUB, etc
+4. Kernel | Linux
+5. Init | User-space
+
+source : Kaewjamnong-2006-Linux-Booting-Procedure.pdf

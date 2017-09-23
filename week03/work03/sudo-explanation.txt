@@ -1,0 +1,5 @@
+Ketika perintah /etc/init.d/sudo start dijalankan maka akan dilakukan pengecekan direktori bernama sudo di dalam direktori /var/lib
+	if [ -d /var/lib/sudo ]
+
+Kemudian jika direktori tersebut ada maka di dalam direktori tersebut akan dibuat sebuah direktori baru yang bernama '{}', parameter -d pada perintah touch berguna untuk mengeset tanggal pembuatan direktori tersebut (pada kasus ini @0 yang berarti tanggal 1 Jan 1970.
+	find /var/lib/sudo -exec touch -d @0 '{}' \; 
